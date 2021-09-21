@@ -1,2 +1,2 @@
-language = "python3"
-run = "python examples/get_trending.py"
+run = "python -m examples.get_trending"
+language = "python3" # optional
